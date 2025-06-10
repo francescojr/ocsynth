@@ -38,4 +38,4 @@ Blender addon for one-click import of Syntheyes 2024 Python scripts
 ⚠️ **Not tested with older versions**
 
 ## 📄 License
-Distributed under [GNU GPLv3](LICENSE.txt)
+Distributed under [GNU GPLv3](license.txt)
