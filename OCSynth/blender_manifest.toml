@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+
+id = "OCSynth"
+version = "1.0.0"
+name = "OCSynth"
+tagline = "One Click import Syntheyes 2024 scripts"
+description = "Facilita a importação de scripts Python exportados do Syntheyes para o Blender com apenas um clique."
+maintainer = "jrFrancesco"
+type = "add-on"
+blender_version_min = "4.4.0"
+license = ["SPDX:GPL-3.0-or-later"]
