@@ -14,7 +14,7 @@ Blender addon for one-click import of Syntheyes 2024 Python scripts
 - Compatible with Blender 4.4 LTS
 
 ## ⚙️ Installation
-1. Download the [latest release](https://github)
+1. Download the [latest release](https://github.com/francescojr/ocsynth)
 2. In Blender:
    - `Edit > Preferences > Add-ons > Install...`
    - Select the ZIP file
